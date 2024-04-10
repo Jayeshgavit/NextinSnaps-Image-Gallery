@@ -1,1 +1,2 @@
-# NextinSnaps-Image-Gallery
+# PhotoGallery
+ 
